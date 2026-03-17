@@ -222,4 +222,52 @@ QueueBase::WouldOverflow(uint32_t nPackets, uint32_t nBytes) const
     }
 }
 
+//template class Queue<Packet>;
+/*
+template <>
+bool 
+Queue<Packet>::Enqueue(Ptr<Packet> item) {
+    NS_LOG_FUNCTION (this << item);
+
+  bool retval = DoEnqueue (item);
+  if (retval)
+    {
+      NS_LOG_LOGIC ("m_traceEnqueue (p)");
+      m_traceEnqueue (item);
+
+      uint32_t size = item->GetSize ();
+      m_nBytes += size;
+      m_nTotalReceivedBytes += size;
+
+      m_nPackets++;
+      m_nTotalReceivedPackets++;
+    }
+  return retval;
+  
+}
+
+template <>
+Ptr<Packet>
+Queue<Packet>::Dequeue ()
+{
+  NS_LOG_FUNCTION (this);
+
+  Ptr<Packet> packet = DoDequeue ();
+
+  if (packet != nullptr)
+    {
+      NS_ASSERT (m_nBytes >= packet->GetSize ());
+      NS_ASSERT (m_nPackets > 0);
+
+      m_nBytes -= packet->GetSize ();
+      m_nPackets--;
+
+      NS_LOG_LOGIC ("m_traceDequeue (packet)");
+      m_traceDequeue (packet);
+    }
+  return packet;
+}
+*/
+
+
 } // namespace ns3

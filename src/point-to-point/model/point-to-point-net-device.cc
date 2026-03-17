@@ -215,6 +215,10 @@ PointToPointNetDevice::SetDataRate(DataRate bps)
     m_bps = bps;
 }
 
+DataRate PointToPointNetDevice::GetDataRate(){
+	return m_bps;
+}
+
 void
 PointToPointNetDevice::SetInterframeGap(Time t)
 {

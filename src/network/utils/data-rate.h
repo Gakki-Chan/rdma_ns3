@@ -235,6 +235,7 @@ class DataRate
      */
     Time CalculateBitsTxTime(uint32_t bits) const;
 
+    double CalculateTxTime (uint32_t bytes) const;
     /**
      * Get the underlying bitrate
      * @return The underlying bitrate in bits per second
@@ -302,6 +303,15 @@ double operator*(const DataRate& lhs, const Time& rhs);
  * @return the number of bits over the period of time
  */
 double operator*(const Time& lhs, const DataRate& rhs);
+
+
+DataRate operator*(const double& c, const DataRate& d);
+//DataRate operator*(const DataRate& d, const double& c);
+
+DataRate operator/(const DataRate& d, const double& c);
+double operator/(const DataRate& lhs, const DataRate& rhs);
+
+//double operator+(const DataRate& lhs, const DataRate& rhs);
 
 namespace TracedValueCallback
 {

@@ -421,8 +421,14 @@ class Queue : public QueueBase
     };
 
     Container m_packets;     //!< the items in the queue
-    NS_LOG_TEMPLATE_DECLARE; //!< the log component
-
+    /*
+    virtual bool DoEnqueue (Ptr<Item> p) = 0;
+    virtual Ptr<Item> DoDequeue (void) = 0;
+    virtual Ptr<const Item> DoPeek (void) const = 0;
+    */
+protected:
+    NS_LOG_TEMPLATE_DECLARE; //!< the log component == g_log
+    
     /// Traced callback: fired when a packet is enqueued
     TracedCallback<Ptr<const Item>> m_traceEnqueue;
     /// Traced callback: fired when a packet is dequeued

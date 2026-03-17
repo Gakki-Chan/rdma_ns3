@@ -66,7 +66,13 @@ PppHeader::Print(std::ostream& os) const
 uint32_t
 PppHeader::GetSerializedSize() const
 {
-    return 2;
+    return GetStaticSize();
+}
+
+uint32_t PppHeader::GetStaticSize (void){
+      
+	// ver3
+	return 2;
 }
 
 void

@@ -70,6 +70,9 @@ set(source_files
     utils/simple-net-device.cc
     utils/sll-header.cc
     utils/timestamp-tag.cc
+    utils/broadcom-egress-queue.cc
+    utils/custom-header.cc
+    utils/int-header.cc
 )
 
 set(header_files
@@ -150,6 +153,9 @@ set(header_files
     utils/simple-net-device.h
     utils/sll-header.h
     utils/timestamp-tag.h
+    utils/broadcom-egress-queue.h
+    utils/custom-header.h
+    utils/int-header.h
 )
 
 build_lib(

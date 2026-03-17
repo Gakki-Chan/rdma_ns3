@@ -14,6 +14,7 @@
 #include "ns3/callback.h"
 #include "ns3/object.h"
 #include "ns3/ptr.h"
+#include "ns3/custom-header.h"
 
 #include <vector>
 
@@ -112,6 +113,9 @@ class Node : public Object
      *          of Application.
      */
     uint32_t AddApplication(Ptr<Application> application);
+    
+    void DeleteApplication (Ptr<Application> application);
+    
     /**
      * @brief Retrieve the index-th Application associated to this node.
      *
@@ -201,8 +205,14 @@ class Node : public Object
      * @returns true if checksums are enabled, false otherwise.
      */
     static bool ChecksumEnabled();
+    
+    //yibo
+    uint32_t GetNodeType();
 
   protected:
+  
+    //yibo
+    uint32_t m_node_type;
     /**
      * The dispose method. Subclasses must override this method
      * and must chain up to it by calling Node::DoDispose at the
@@ -286,13 +296,18 @@ class Node : public Object
     typedef std::vector<Node::ProtocolHandlerEntry> ProtocolHandlerList;
     /// Typedef for NetDevice addition listeners container
     typedef std::vector<DeviceAdditionListener> DeviceAdditionListenerList;
-
+protected:
     uint32_t m_id;                                        //!< Node id for this node
     uint32_t m_sid;                                       //!< System id for this node
     std::vector<Ptr<NetDevice>> m_devices;                //!< Devices associated to this node
     std::vector<Ptr<Application>> m_applications;         //!< Applications associated to this node
     ProtocolHandlerList m_handlers;                       //!< Protocol handlers in the node
     DeviceAdditionListenerList m_deviceAdditionListeners; //!< Device addition listeners in the node
+    
+    // Yuliang
+public:
+    virtual bool SwitchReceiveFromDevice(Ptr<NetDevice> device, Ptr<Packet> packet, CustomHeader &ch);
+    virtual void SwitchNotifyDequeue(uint32_t ifIndex, uint32_t qIndex, Ptr<Packet> p);
 };
 
 } // namespace ns3

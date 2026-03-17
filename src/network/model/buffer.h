@@ -370,6 +370,7 @@ class Buffer
          * @returns the size left to read of the underlying buffer we are iterating
          */
         uint32_t GetRemainingSize() const;
+        
 
       private:
         /// Friend class
@@ -632,6 +633,8 @@ class Buffer
      */
     Buffer(uint32_t dataSize, bool initialize);
     ~Buffer();
+    
+    uint8_t* GetBuffer() const;
 
   private:
     /**

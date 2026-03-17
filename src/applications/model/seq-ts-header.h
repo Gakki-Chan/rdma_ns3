@@ -11,6 +11,7 @@
 
 #include "ns3/header.h"
 #include "ns3/nstime.h"
+#include "ns3/int-header.h"
 
 namespace ns3
 {
@@ -47,6 +48,9 @@ class SeqTsHeader : public Header
      * @return the time stamp
      */
     Time GetTs() const;
+   
+    void SetPG (uint16_t pg);
+    uint16_t GetPG () const;
 
     /**
      * @brief Get the type ID.
@@ -57,10 +61,16 @@ class SeqTsHeader : public Header
     TypeId GetInstanceTypeId() const override;
     void Print(std::ostream& os) const override;
     uint32_t GetSerializedSize() const override;
+    static uint32_t GetHeaderSize(void);
+  
     void Serialize(Buffer::Iterator start) const override;
     uint32_t Deserialize(Buffer::Iterator start) override;
+    
+    bool isRdma = false;
+    IntHeader ih; // 支持带内网络遥测（INT）的自定义协议头部，用于在数据包中嵌入网络设备的实时状态信息
 
   private:
+    uint16_t m_pg; //!< Sequence number
     uint32_t m_seq; //!< Sequence number
     uint64_t m_ts;  //!< Timestamp
 };

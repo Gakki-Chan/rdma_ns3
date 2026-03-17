@@ -79,6 +79,7 @@ Node::Node()
       m_sid(0)
 {
     NS_LOG_FUNCTION(this);
+    m_node_type = 0;
     Construct();
 }
 
@@ -87,6 +88,7 @@ Node::Node(uint32_t sid)
       m_sid(sid)
 {
     NS_LOG_FUNCTION(this << sid);
+    m_node_type = 0;
     Construct();
 }
 
@@ -158,6 +160,15 @@ Node::AddApplication(Ptr<Application> application)
     application->SetNode(this);
     Simulator::ScheduleWithContext(GetId(), Seconds(0), &Application::Initialize, application);
     return index;
+}
+
+void 
+Node::DeleteApplication (Ptr<Application> application){
+	for (auto it = m_applications.begin(); it != m_applications.end(); it++)
+		if (*it == application){
+			m_applications.erase(it);
+			break;
+		}
 }
 
 Ptr<Application>
@@ -370,6 +381,21 @@ Node::NotifyDeviceAdded(Ptr<NetDevice> device)
     {
         (*i)(device);
     }
+}
+
+uint32_t 
+Node::GetNodeType()
+{
+	return m_node_type;
+}
+
+bool Node::SwitchReceiveFromDevice(Ptr<NetDevice> device, Ptr<Packet> packet, CustomHeader &ch){
+	NS_ASSERT_MSG(false, "Calling SwitchReceiveFromDevice() on a non-switch node or this function is not implemented");
+	return false;
+}
+
+void Node::SwitchNotifyDequeue(uint32_t ifIndex, uint32_t qIndex, Ptr<Packet> p){
+	NS_ASSERT_MSG(false, "Calling NotifyDequeue() on a non-switch node or this function is not implemented");
 }
 
 } // namespace ns3

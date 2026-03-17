@@ -54,6 +54,7 @@ class DropTailQueue : public Queue<Item>
  * Implementation of the templates declared above.
  */
 
+
 template <typename Item>
 TypeId
 DropTailQueue<Item>::GetTypeId()

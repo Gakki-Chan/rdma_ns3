@@ -7,13 +7,13 @@
  */
 
 #include "point-to-point-remote-channel.h"
-
 #include "point-to-point-net-device.h"
-
 #include "ns3/log.h"
-#include "ns3/mpi-interface.h"
 #include "ns3/packet.h"
 #include "ns3/simulator.h"
+
+#include "ns3/mpi-interface.h"
+
 
 #include <iostream>
 

@@ -249,6 +249,7 @@ set(header_files
     model/udp-socket-factory.h
     model/udp-socket.h
     model/windowed-filter.h
+    model/rdma.h
 )
 
 set(private_header_files)

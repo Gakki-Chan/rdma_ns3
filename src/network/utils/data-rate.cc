@@ -24,7 +24,7 @@ bool
 DataRate::DoParse(const std::string s, uint64_t* v)
 {
     NS_LOG_FUNCTION(s << v);
-    std::string::size_type n = s.find_first_not_of("0123456789. ");
+    std::string::size_type n = s.find_first_not_of("0123456789. ");//原来多一个' '
     if (n != std::string::npos)
     { // Found non-numeric
         std::istringstream iss;
@@ -230,6 +230,11 @@ DataRate::CalculateBitsTxTime(uint32_t bits) const
     return Seconds(int64x64_t(bits) / m_bps);
 }
 
+double DataRate::CalculateTxTime (uint32_t bytes) const
+{
+  return static_cast<double>(bytes)*8/m_bps;
+}
+
 uint64_t
 DataRate::GetBitRate() const
 {
@@ -282,5 +287,30 @@ operator*(const Time& lhs, const DataRate& rhs)
 {
     return lhs.GetSeconds() * rhs.GetBitRate();
 }
+
+DataRate operator*(const double& c, const DataRate& d)
+{
+	return DataRate(d.GetBitRate()*c);
+};
+/*
+DataRate operator*(const DataRate& d, const double& c)
+{
+	return DataRate(d.GetBitRate()*c);
+};*/
+
+DataRate operator/(const DataRate& d, const double& c)
+{
+	return DataRate(d.GetBitRate()/c);
+};
+
+double operator/(const DataRate& lhs, const DataRate& rhs)
+{
+	return double(lhs.GetBitRate())/rhs.GetBitRate();
+};
+/*
+DataRate operator+(const DataRate& lhs, const DataRate& rhs)
+{
+	return DataRate(lhs.GetBitRate()+rhs.GetBitRate());
+};*/
 
 } // namespace ns3

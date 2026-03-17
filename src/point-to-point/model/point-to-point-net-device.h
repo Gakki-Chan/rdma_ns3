@@ -88,6 +88,8 @@ class PointToPointNetDevice : public NetDevice
      */
     void SetDataRate(DataRate bps);
 
+    DataRate GetDataRate();
+    
     /**
      * Set the interframe gap used to separate packets.  The interframe gap
      * defines the minimum space required between packets sent by this device.
@@ -194,12 +196,27 @@ class PointToPointNetDevice : public NetDevice
      * @param p Packet received
      */
     void DoMpiReceive(Ptr<Packet> p);
-
-  private:
+    
     /**
      * @brief Dispose of the object
      */
     void DoDispose() override;
+    
+    /**
+     * Enumeration of the states of the transmit machine of the net device.
+     */
+    enum TxMachineState
+    {
+        READY, /**< The transmitter is ready to begin transmission of a packet */
+        BUSY   /**< The transmitter is busy transmitting a packet */
+    };
+
+    /**
+     * The state of the Net Device transmit state machine.
+     */
+    TxMachineState m_txMachineState;
+
+  protected:
 
     /**
      * @returns the address of the remote device connected to this device
@@ -256,20 +273,6 @@ class PointToPointNetDevice : public NetDevice
      * It calls also the linkChange callback.
      */
     void NotifyLinkUp();
-
-    /**
-     * Enumeration of the states of the transmit machine of the net device.
-     */
-    enum TxMachineState
-    {
-        READY, /**< The transmitter is ready to begin transmission of a packet */
-        BUSY   /**< The transmitter is busy transmitting a packet */
-    };
-
-    /**
-     * The state of the Net Device transmit state machine.
-     */
-    TxMachineState m_txMachineState;
 
     /**
      * The data rate that the Net Device uses to simulate packet transmission

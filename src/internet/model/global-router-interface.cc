@@ -1686,6 +1686,17 @@ GlobalRouter::GetAdjacent(Ptr<NetDevice> nd, Ptr<Channel> ch) const
     NS_LOG_FUNCTION(this << nd << ch);
     NS_ASSERT_MSG(ch->GetNDevices() == 2,
                   "GlobalRouter::GetAdjacent (): Channel with other than two devices");
+    
+    /* 调试输出
+    std::cout << "Current Device: " << nd->GetInstanceTypeId() 
+              << ", Channel Devices: " << ch->GetNDevices() << std::endl;
+    for (std::size_t i = 0; i < ch->GetNDevices(); i++) {
+        Ptr<NetDevice> dev = ch->GetDevice(i);
+        if(dev==nullptr) printf("dev = NULL\n");
+        std::cout << " - Device " << i << ": " << dev->GetInstanceTypeId() 
+                  << " (Ptr=" << dev << ")" << std::endl;
+    }
+    */
     //
     // This is a point to point channel with two endpoints.  Get both of them.
     //

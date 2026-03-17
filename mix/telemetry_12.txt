@@ -1,0 +1,6922 @@
+
+
+polling
+epoch 1 nowTime 0.001904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 834 1125900 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.002904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.003904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.004904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.005904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.006904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.007903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.008903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.009903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.010903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 538 726300 15 0
+747 0b000101 0b000301 10000 4791 17 0 0 1464 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.011908s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 536 723600 7 0
+747 0b000101 0b000301 10000 4791 17 0 0 1469 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.012903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 526 710100 2 0
+747 0b000101 0b000301 10000 4791 17 0 0 1485 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.013908s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 529 714150 19 0
+747 0b000101 0b000301 10000 4791 17 0 0 1498 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.014905s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 525 708750 7 0
+747 0b000101 0b000301 10000 4791 17 0 0 1508 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.015904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 529 714150 12 0
+747 0b000101 0b000301 10000 4791 17 0 0 1492 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.016906s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 528 712800 9 0
+747 0b000101 0b000301 10000 4791 17 0 0 1489 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.017903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 524 707400 6 0
+747 0b000101 0b000301 10000 4791 17 0 0 1497 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.018908s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 532 718200 6 0
+747 0b000101 0b000301 10000 4791 17 0 0 1485 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.019903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 524 707400 4 0
+747 0b000101 0b000301 10000 4791 17 0 0 1502 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.020908s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 525 708750 21 0
+747 0b000101 0b000301 10000 4791 17 0 0 1511 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.021904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 528 712800 4 0
+747 0b000101 0b000301 10000 4791 17 0 0 1524 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.022907s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 525 708750 9 0
+747 0b000101 0b000301 10000 4791 17 0 0 1540 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.023903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 526 710100 6 0
+747 0b000101 0b000301 10000 4791 17 0 0 1548 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.024906s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 529 714150 12 0
+747 0b000101 0b000301 10000 4791 17 0 0 1525 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.025903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 524 707400 4 0
+747 0b000101 0b000301 10000 4791 17 0 0 1517 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.026907s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 530 715500 5 0
+747 0b000101 0b000301 10000 4791 17 0 0 1507 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.027903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 526 710100 7 0
+747 0b000101 0b000301 10000 4791 17 0 0 1489 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.028907s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 526 710100 4 0
+747 0b000101 0b000301 10000 4791 17 0 0 1495 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.029903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 525 708750 8 0
+747 0b000101 0b000301 10000 4791 17 0 0 1510 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.030907s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 529 714150 2 0
+747 0b000101 0b000301 10000 4791 17 0 0 1501 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.031903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 525 708750 3 0
+747 0b000101 0b000301 10000 4791 17 0 0 1559 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.032908s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 533 719550 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 1499 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.033904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 527 711450 2 0
+747 0b000101 0b000301 10000 4791 17 0 0 1512 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.034903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 549 741150 11 0
+747 0b000101 0b000301 10000 4791 17 0 0 1367 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.035904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 542 731700 4 0
+747 0b000101 0b000301 10000 4791 17 0 0 1432 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.036906s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 535 722250 6 0
+747 0b000101 0b000301 10000 4791 17 0 0 1459 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.037903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 534 720900 13 0
+747 0b000101 0b000301 10000 4791 17 0 0 1477 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.038904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 524 707400 19 0
+747 0b000101 0b000301 10000 4791 17 0 0 1515 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.039904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 529 714150 16 0
+747 0b000101 0b000301 10000 4791 17 0 0 1516 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.040903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 740 999000 2 0
+747 0b000101 0b000301 10000 4791 17 0 0 481 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.041903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.042903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.043903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.044903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.045904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.046904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.047904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.048904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.049904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 838 1131300 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.050904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.051904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.052903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.053903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.054903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.055903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.056903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.057903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.058904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.059904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.060904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.061904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.062904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.063904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.064904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.065904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.066903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.067903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.068903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.069903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.070903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.071903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.072904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.073904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.074904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.075904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.076904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.077904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.078904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.079903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.080903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.081903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.082903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.083903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.084903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.085904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.086904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.087904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.088904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.089904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.090904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.091904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.092903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.093903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.094903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.095903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.096903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.097903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.098903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.099904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.100904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.101904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.102904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.103904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.104904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.105904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.106903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.107903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.108903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.109904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.110903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.111903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.112904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.113904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.114904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.115904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.116904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.117904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.118904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.119904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.120903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.121903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.122903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.123903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.124903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.125903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.126904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.127904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.128904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.129904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.130904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.131904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.132904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.133903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.134903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.135903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.136903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.137903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.138903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.139904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.140904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.141904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.142904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.143904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.144904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.145904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.146904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.147903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.148903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.149903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.150903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.151903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.152903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.153904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.154904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.155904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.156904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.157904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.158904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.159904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.160903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.161903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.162903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.163903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.164903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.165903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.166904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.167904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.168904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.169904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.170904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.171904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.172904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.173904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 837 1129950 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.174903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.175903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.176903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.177903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+347 0b000101 0b000301 10000 4791 17 836 1128600 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.178904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 577 778950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.179904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.180904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.181904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.182904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.183904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.184904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.185903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.186903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.187903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.188903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.189903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.190904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.191904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.192904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.193904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.194904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.195904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.196904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.197904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.198903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.199903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.200903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.201903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.202903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.203903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.204904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.205904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.206904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.207904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.208904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.209904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.210903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 534 720900 10 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1480 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.211909s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 534 720900 17 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1457 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.212905s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 530 715500 8 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1501 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.213903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 524 707400 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1517 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.214907s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 524 707400 6 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1479 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.215905s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 546 737100 6 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1436 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.216905s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 548 739800 6 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1406 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.217904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 536 723600 18 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1446 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.218906s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 537 724950 10 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1482 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.219904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 529 714150 7 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1514 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.220906s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 526 710100 14 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1543 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.221904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 529 714150 8 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1518 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.222906s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 526 710100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1535 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.223904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 525 708750 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1514 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.224905s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 526 710100 8 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1513 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.225904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 529 714150 19 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1501 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.226904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 519 700650 16 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1514 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.227903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 520 702000 7 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1535 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.228904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 524 707400 15 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1510 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.229908s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 527 711450 5 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1524 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.230904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 527 711450 2 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1506 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.231904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 523 706050 15 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1495 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.232909s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 521 703350 10 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1479 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.233904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 520 702000 12 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1510 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.234904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 521 703350 4 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1507 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.235907s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 525 708750 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1533 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.236904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 527 711450 16 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1496 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.237905s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 523 706050 11 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1521 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.238904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 526 710100 10 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1492 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.239907s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 529 714150 9 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 1492 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.240903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 801 1081350 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 167 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.241903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.242903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.243903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.244903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.245904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.246904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.247904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.248904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.249904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.250904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.251903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.252903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.253903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.254903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.255903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.256903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.257903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.258904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.259904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.260904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.261904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.262904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.263904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.264904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.265904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.266903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.267903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.268903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.269903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.270903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.271903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.272904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.273904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.274904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.275904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.276904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.277904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.278904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.279903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.280903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.281903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.282903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.283903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.284904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.285904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.286904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.287904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.288904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.289904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.290904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.291904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.292904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.293903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.294903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.295903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.296903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.297903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.298903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.299904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.300904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.301904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.302904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.303904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.304904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.305904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.306903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.307903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.308903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.309903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.310903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.311903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.312904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.313904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.314904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.315904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.316904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.317904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.318904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.319904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.320903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.321903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.322903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.323903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.324903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.325903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.326904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.327904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.328904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.329904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.330904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.331904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.332904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.333903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.334903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.335903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.336903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.337903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.338903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.339904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.340904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.341904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.342904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.343904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.344904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.345904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.346904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.347903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.348903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.349903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.350903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.351903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 836 1128600 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.352903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.353904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.354904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+54 0b000101 0b000301 10002 4791 17 837 1129950 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.355904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 314 423900 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.356904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.357904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.358903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.359903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.360903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.361903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.362903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.363903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.364904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.365904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.366904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.367904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.368904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.369904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.370904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.371903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.372903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.373903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.374903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.375903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.376903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.377904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.378904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.379904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.380904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.381904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.382904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.383904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.384904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.385903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.386903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.387903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.388903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.389903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.390903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.391904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.392904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.393904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.394904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.395904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.396904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.397904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.398903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.399903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.400903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.401903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.402903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.403903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.404904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.405904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.406904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.407904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.408904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.409904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.410904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 34 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 828 1117800 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.411904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.412904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.413904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.414904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.415904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.416904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.417903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.418903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.419903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.420903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.421903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.422903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.423904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.424904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.425904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.426904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.427904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.428904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.429904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.430904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.431903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.432903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.433903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.434903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.435903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.436903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.437904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.438904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.439904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.440904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.441904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.442904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.443904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.444903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.445903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.446903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.447903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.448903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.449903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.450904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.451904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.452904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.453904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.454904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.455904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.456903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.457903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.458903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.459904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.460904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.461904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.462904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.463904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.464904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.465904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.466904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.467904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.468904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.469904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.470903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.471903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.472904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.473904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.474904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.475904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.476904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.477904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.478904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.479904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.480904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.481904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.482904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.483903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.484903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.485903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.486904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.487904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.488904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.489904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.490904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.491904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.492904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.493904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.494904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.495904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.496904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 837 1129950 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.497903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 0 nowTime 0.498903s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 926 1250100 0 0
+347 0b000101 0b000301 10000 4791 17 260 349900 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+
+polling
+epoch 1 nowTime 0.499904s
+
+
+polling
+flow telemetry data for port 2
+flowIdx srcIp dstIp srcPort dstPort protocol packetFwdNum totalFwdBytes enqQdepth pfcPausedPacketNum
+52 0b000101 0b000301 10004 4791 17 0 0 0 0
+54 0b000101 0b000301 10002 4791 17 524 706300 0 0
+347 0b000101 0b000301 10000 4791 17 926 1250100 0 0
+353 0b000101 0b000301 10004 4791 17 836 1128600 0 0
+464 0b000101 0b000301 10002 4791 17 0 0 0 0
+747 0b000101 0b000301 10000 4791 17 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
